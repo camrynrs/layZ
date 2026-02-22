@@ -1,0 +1,12 @@
+[package]
+name = "layZ"
+version = "0.1.0"
+authors = ["Camryn Simons", "Gavin Heinrichs <gheinrichs@pm.me>"]
+description = "Lazy, automatic file path expansion."
+license = "AGPL-3.0-or-later"
+license-file = "LICENSE.md"
+readme = "README.md"
+repository = "https://github.com/camrynrs/layZ"
+edition = "2024"
+
+[dependencies]
